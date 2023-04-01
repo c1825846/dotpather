@@ -1,3 +1,7 @@
+> This is project was used in the micro-course on migrating a js-app to ts.
+>
+> https://www.typescriptcourse.com
+
 # dotpather
 
 [![Build Status](http://img.shields.io/travis/jarofghosts/dotpather.svg?style=flat-square)](https://travis-ci.org/jarofghosts/dotpather)
